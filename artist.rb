@@ -1,1 +1,1 @@
-
+class Artist < ActiveRecord::Base
